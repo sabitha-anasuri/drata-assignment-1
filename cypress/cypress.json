@@ -1,0 +1,16 @@
+{
+  "cypress": {
+    "testFolder": "cypress/e2e/drata_spec.cy.js",
+    "fixturesFolder": "cyperss/fixtures",
+    "supportFolder": "cypress/support",
+    "viewportWidth": 1300,
+    "viewportHeight": 660,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "cypress/reports",
+      "overwrite": false,
+      "html": false,
+      "json": true
+    }
+  }
+}
