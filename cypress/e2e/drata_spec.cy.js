@@ -1,5 +1,5 @@
 
-// Check drata site os accessible
+// Check drata site is accessible with no errors
 describe('Drata UI Testing Suite', () => {
   beforeEach(() => {
     cy.on('uncaught:exception', (err, runnable) => {})
