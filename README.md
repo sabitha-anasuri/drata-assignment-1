@@ -1,3 +1,6 @@
+Cypress Project Setup
+=====================
+
 1. Setup New Project Environment
 
 mkdir drata-cypress-project
